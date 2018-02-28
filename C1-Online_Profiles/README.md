@@ -14,3 +14,6 @@ Provide a link to your LinkedIn account here.
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo.
+
+https://github.com/tkinder89/
+https://www.linkedin.com/in/travis-kinder-72523423/
